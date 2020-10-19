@@ -9,7 +9,7 @@ const Content = () => {
         tempor incididunt ut labore et dolore magna aliqua. Pharetra sit amet
         aliquam id diam. Et ultrices neque ornare aenean euismod. Elit eget
         gravida cum sociis natoque penatibus. Lorem ipsum dolor sit amet
-        consectetur adipiscing elit. Eu sem integer vitae justo. 
+        consectetur adipiscing elit. Eu sem integer vitae justo.
       </p>
       <button className="btn-primary"> Read More</button>
     </div>
