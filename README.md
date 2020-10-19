@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Theme Switcher
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/smilegupta)
 
-## Available Scripts
+Since the theme switching between light (default) and dark (inverted) themes has become a new trend. 
+Here is the code of the Theme Switcher written in React.
 
-In the project directory, you can run:
+## Prerequisite
+Your Machine must have nodejs installed in your system
 
-### `yarn start`
+## Technology Stack Used
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-javascript-blue.svg?logo=javascript&style=flat-square) 
+![React](https://img.shields.io/badge/library-react-lightgray.svg?logo=react&style=flat-square) 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Front End - **HTML**, **CSS** , **JavaScript**
+- Library - **React** 
+ 
+ 
+### React Commands in NutShell
 
-### `yarn test`
+##### Creating a React Application 
+``` npx create-react-app theme-switcher ```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##### Running the Application
+```npm start```
 
-### `yarn build`
+#### Installing Styled-Component Package
+```npm i styled-components```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### List of External Package used 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- styled-component [Documentation](https://styled-components.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### Still need help?
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  if (needHelp === true) {
+     var emailId = "guptamiley3012@gmail.com";
+     // email is the best way to reach out to me.
+     sendEmail(emailId);
+  }
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/https://github.com/smilegupta/breakingBad/) this repo.***
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/smileguptaaa)
