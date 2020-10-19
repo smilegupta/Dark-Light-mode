@@ -32,7 +32,7 @@ Your Machine must have nodejs installed in your system
 
 #### List of External Package used 
 
-- styled-component [Documentation](https://styled-components.com/)
+- [styled-component](https://styled-components.com/)
 
 
 ### Still need help?
